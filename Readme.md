@@ -1,9 +1,8 @@
-# AI-Based Resume and Career Guidance System [AI-RC]
+
+# CareerPilot 🚀
 
 ## 📌 Introduction
-The AI-Based Resume and Career Guidance System is a web-based application designed to help students and job seekers improve their resumes and make better career decisions.
-
-The system uses Artificial Intelligence to analyze resumes, identify skill gaps, suggest suitable career paths, and provide recommendations to improve users' employability.
+CareerPilot is an AI-powered resume analysis and career guidance system designed to help students and job seekers improve their resumes, identify skill gaps, and explore suitable career opportunities.
 
 ## 🎯 Objectives
 - Analyze uploaded resumes.
@@ -31,10 +30,10 @@ The system uses Artificial Intelligence to analyze resumes, identify skill gaps,
 
 ## ✨ Key Features
 - Resume Upload
-- Resume Analysis
+- AI-Based Resume Analysis
 - Skill Gap Detection
-- AI-Based Career Recommendations
-- Personalized Improvement Suggestions
+- Personalized Career Recommendations
+- Improvement Suggestions
 
 ## 🚀 Project Status
 Currently under development.
