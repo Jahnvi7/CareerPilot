@@ -1,7 +1,5 @@
 
 # CareerPilot 🚀
-
-## 📌 Introduction
 CareerPilot is an AI-powered resume analysis and career guidance system designed to help students and job seekers improve their resumes, identify skill gaps, and explore suitable career opportunities.
 
 ## 🎯 Objectives
